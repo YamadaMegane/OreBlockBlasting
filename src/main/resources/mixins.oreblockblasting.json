@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "minVersion": "0.8.5",
+  "package": "com.example.oreblockblasting.mixin",
+  "refmap": "mixins.oreblockblasting.refmap.json",
+  "mixins": [
+    "ExampleMixin"
+  ],
+  "client": [],
+  "server": []
+}

@@ -1,0 +1,10 @@
+modid,from,to,exp,time
+divinerpg,raw_realmite_block,realmite_block,0.7,10
+divinerpg,raw_arlemite_block,arlemite_block,1,10
+divinerpg,raw_rupee_block,rupee_block,1,10
+divinerpg,raw_torridite_block,torridite_block,1.1,10
+divinerpg,raw_oxdrite_block,oxdrite_block,0.7,10
+ad_astra,raw_desh_block,desh_block,0.1,10
+ad_astra,raw_ostrum_block,ostrum_block,0.1,10
+ad_astra,raw_calorite_block,calorite_block,0.1,10
+iceandfire,raw_silver_block,silver_block,0.7,10

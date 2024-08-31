@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "blocks",
+  "cookingtime": 90,
+  "experience": 6.3,
+  "ingredient": {
+    "item": "divinerpg:raw_realmite_block"
+  },
+  "result": "divinerpg:realmite_block"
+}
